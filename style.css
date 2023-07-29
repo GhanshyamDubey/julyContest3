@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container{
+background-color: #A9C9FF;
+background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+width: 50%;
+height: 90vh;
+margin: 53px auto ;
+padding: 17px;
+box-shadow: 0px 0px 9px ;
+}
+#inner{
+    background-color: white;
+    margin:63px auto;
+    padding: 33px;
+    width: 80%;
+    box-shadow: 0px 0px 9px ;
+}
+#head {
+    margin-bottom: 9px;
+}
+#head p{
+    font-weight: 100;
+    margin-bottom: 12px;
+}
+.name p,.mail p,.password p,.cpassword p{
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.btn button{
+    width: 162px;
+    margin-top: 15px;
+    height: 31px;
+}
